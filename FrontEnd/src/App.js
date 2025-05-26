@@ -13,7 +13,7 @@ const suggestions = [
 function App() {
   const [question, setQuestion] = useState("");
   const [messages, setMessages] = useState([
-    { sender: "bot", text: "👋 Hi, I'm Pranes's Resume AI. Ask me anything!" },
+    { sender: "bot", text: "👋 Hi, I'm Sandeep's Resume AI. Ask me anything!" },
   ]);
   const [loading, setLoading] = useState(false);
   const chatRef = useRef(null);
