@@ -1,1 +1,1 @@
-# Resume-AI-Assistant
+# Recruiter-AI-Assistant
