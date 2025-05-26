@@ -1,1 +1,1 @@
-# Recruier-AI-Assistant
+# Recruiter-AI-Assistant
